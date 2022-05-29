@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/imminent-recognition-ioxt6.style-dictionary-l3r5klnq",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve gNGTonWXimJqVCMO8Mns --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
